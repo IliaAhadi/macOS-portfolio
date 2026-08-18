@@ -40,7 +40,7 @@ A sleek, interactive macOS-inspired portfolio built with React, showcasing proje
 ### Installation
 
 ```bash
-git clone https://github.com/IliaAhd/MacOs-Portfolio.git
+git clone https://github.com/IliaAhadi/MacOs-Portfolio.git
 cd MacOs-Portfolio
 npm install
 ```
