@@ -154,7 +154,7 @@ This project is open source and available under the MIT License.
 
 ## Author
 
-**Ilia Ahadi** – [GitHub](https://github.com/IliaAhd) | [LinkedIn](https://www.linkedin.com/in/ilia-ahadi/)
+**Ilia Ahadi** – [GitHub](https://github.com/IliaAhadi) | [LinkedIn](https://www.linkedin.com/in/ilia-ahadi)
 
 ## Contributing
 
